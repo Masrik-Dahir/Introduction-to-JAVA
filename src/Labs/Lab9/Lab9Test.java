@@ -1,3 +1,6 @@
+/****************************************************************************
+ * Copyright 2020, Masrik Dahir, All Right Reserved
+ ****************************************************************************/
 package Labs.Lab9;
 
 import static org.junit.Assert.assertArrayEquals;
