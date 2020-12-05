@@ -1,7 +1,9 @@
 # Introduction to JAVA
 Copyright 2020, Masrik Dahir, All rights reserved
 
-This Repository is solely for the assigned projects and labs of Introduction to JAVA
+This Repository is solely for the assigned projects and labs of Introduction to JAVA (VCU CMSC-255)
+Instrucotr: Dr. Carolina Budwell
+
 1. fundamental computting Skills 
 2. Object-oriented programming 
 3. real-life problem solving 
