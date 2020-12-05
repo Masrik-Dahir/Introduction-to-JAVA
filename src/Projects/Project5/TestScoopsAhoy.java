@@ -6,6 +6,7 @@
  * Masrik Dahir
  * 10/22/2020
  * CMSC 255-C90
+ * Copyright 2020, Masrik Dahir, All Right Reserved
  ****************************************************************************/
 
 package Projects.Project5;
