@@ -1,3 +1,6 @@
+/****************************************************************************
+ * Copyright 2020, Masrik Dahir, All Right Reserved
+ ****************************************************************************/
 package Labs.Lab12;
 
 import static org.junit.Assert.assertEquals;
