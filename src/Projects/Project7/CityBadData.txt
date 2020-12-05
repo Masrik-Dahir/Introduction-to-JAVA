@@ -1,0 +1,8 @@
+Albuquerque, NM	188.87	545852	64
+Kansas City, MO	-318.98	459787	63.3
+Richmond, VA	62.57	204214	109
+Sacramento, CA	99.77	-466488	87.9
+Baton Rouge, LA	88.65	22u493	81.2
+Rochester, NY	37.17	210565	7i.9
+Colorado Springs, CO	195.36	416427	70.5
+Cincinnati, OH	7o9.56	296945	107

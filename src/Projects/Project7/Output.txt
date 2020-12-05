@@ -1,0 +1,10 @@
+The average population is: 203285.0
+
+The average area is: 68.32124999999999
+
+The cities above the average population are: Albuquerque, NM Kansas City, MO Richmond, VA Colorado Springs, CO 
+
+The largest distance is: Richmond, VA
+
+Is Baton Rouge, LA in the data? false
+
