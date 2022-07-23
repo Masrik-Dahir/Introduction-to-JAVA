@@ -1,4 +1,6 @@
 # Introduction to JAVA
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
+
 Copyright 2020, Masrik Dahir, All rights reserved
 
 This Repository is solely for the assigned projects and labs of Introduction to JAVA (VCU CMSC-255)
